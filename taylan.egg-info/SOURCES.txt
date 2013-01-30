@@ -1,0 +1,10 @@
+setup.cfg
+setup.py
+scripts/getting_data.py
+taylan/__init__.py
+taylan.egg-info/PKG-INFO
+taylan.egg-info/SOURCES.txt
+taylan.egg-info/dependency_links.txt
+taylan.egg-info/entry_points.txt
+taylan.egg-info/not-zip-safe
+taylan.egg-info/top_level.txt
